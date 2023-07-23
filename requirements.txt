@@ -1,0 +1,6 @@
+openpyxl
+dgaintel
+dnspython
+tldextract
+python-whois
+python-dateutil
