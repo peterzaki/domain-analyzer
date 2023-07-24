@@ -76,4 +76,9 @@ The tool aims to save time and effort, and assists in the detection of potential
 
 **That's it! You have successfully installed the Domain Analyzer tool and can now use it to analyze domains and detect potential threats. 💪**
 
+****
+
+If you have any inquiries, ideas, or feedback, don't hesitate to contact me at: [Peter Zaki](linkedin.com/in/peterzaki)
+
+
 
