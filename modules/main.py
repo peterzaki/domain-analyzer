@@ -64,7 +64,7 @@ def main():
                             concern = "IPs & TTL"
                     elif suspicion_level == "Low":
                         suspicion_level = "Medium"
-                        concern += "IPs"
+                        concern += ", IPs"
                     elif suspicion_level == "Medium":
                         suspicion_level = "High"
                         concern += ", IPs"
