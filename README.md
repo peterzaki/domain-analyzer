@@ -79,7 +79,7 @@ The tool aims to save time and effort, and assists in the detection of potential
 ****
 
 Contributions to Domain Analyzer are welcome!
-Also, if you have any inquiries, suggestions, or feedback, don't hesitate to contact me at: [Peter Zaki](linkedin.com/in/peterzaki)
+Also, if you have any inquiries, suggestions, or feedback, don't hesitate to contact me at: [Peter Zaki](https://www.linkedin.com/in/peterzaki/)
 
 
 
